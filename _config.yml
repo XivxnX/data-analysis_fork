@@ -1,0 +1,44 @@
+# Name of website
+title: CI-0202 Principios de Informática
+
+# Your name to show in the footer
+author: Sivana Hamer
+
+#Theme used
+remote_theme: daattali/beautiful-jekyll@5.0.0
+
+#Remove duplicate headings
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true 
+
+#Colors site
+link-col: "#DD003F"
+hover-col: "#AEDD00"
+
+#Colors site
+link-col: "#DD003F"
+hover-col: "#AEDD00"
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
+      ext-js: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+
+# --- List of links in the navigation bar --- #
+
+navbar-links:
+  Clases: "class"
+  Banco Examenes: "banco_examenes"
