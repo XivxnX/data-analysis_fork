@@ -40,7 +40,9 @@ defaults:
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Configuracion: "1-setup/README"
+  Configuración: "1-setup/README"
   Procesamiento: "2-data_processing/README"
   Visualización: "3-data_visualization/README"
   Modelado: "4-data_modeling/README"
+
+include: ["1-setup", "2-data_processing"]
