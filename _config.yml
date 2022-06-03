@@ -1,5 +1,5 @@
 # Name of website
-title: CI-0202 Principios de Informática
+title: Análisis de datos con Python
 
 # Your name to show in the footer
 author: Sivana Hamer
@@ -39,6 +39,8 @@ defaults:
 
 # --- List of links in the navigation bar --- #
 
-# navbar-links:
-#   Test: "class"
-#   Banco Examenes: "banco_examenes"
+navbar-links:
+  Configuracion: "1.setup\README"
+  Procesamiento: "2.data_processing\README"
+  Visualización: "3.data_visualization\README"
+  Modelado: "4.data_modeling\README"
