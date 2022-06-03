@@ -39,6 +39,6 @@ defaults:
 
 # --- List of links in the navigation bar --- #
 
-navbar-links:
-  Clases: "class"
-  Banco Examenes: "banco_examenes"
+# navbar-links:
+#   Test: "class"
+#   Banco Examenes: "banco_examenes"
