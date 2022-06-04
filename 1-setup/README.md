@@ -32,3 +32,38 @@ Luego, damos clic en instalar (flecha roja).
 ![Plugin Python](imgs/PythonPlugin.PNG)
 
 Terminada la instalación reinicie la aplicación.
+
+## Numpy
+
+[Numpy](https://numpy.org/) es una biblioteca de Python que permite trabajar con arreglos y matrices de varias dimensiones. Además, permite realizar diversos cálculos estadísticos.
+Se puede instalar la biblioteca mediante el siguiente comando en la terminal.
+
+```bash
+pip install numpy
+```
+
+## Pandas
+
+[Pandas](https://pandas.pydata.org/) es una biblioteca de Python que ayuda con el análisis y manipulación de datos, utilizando estructuras de datos y operaciones de manejo de tablas o series.
+Se puede instalar la biblioteca mediante el siguiente comando en la terminal.
+
+```bash
+pip install pandas
+```
+
+## Matplotlib
+
+[Matplotlib](https://matplotlib.org/) es una biblioteca de Python con la que se pueden visualizar datos. Tiene distintos gráficos como de barras, histogramas, de dispersión, entre otros. Se puede instalar la biblioteca mediante el siguiente comando en la terminal.
+
+```bash
+pip install matplotlib
+```
+
+## scikit-learn
+
+[scikit-learn](https://scikit-learn.org/stable/) es una biblioteca de Python que permite crear modelos de aprendizaje automatizado. Tiene modelos de regresión, clasificación y agrupamiento. Además tiene funcionalidades adicionales que permiten realizar preprocesamiento de datos y seleccionar modelos basados en métricas.
+Se puede instalar la biblioteca mediante el siguiente comando en la terminal.
+
+```bash
+pip install scikit-learn
+```
