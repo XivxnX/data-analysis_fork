@@ -17,7 +17,7 @@ Revise que se haya instalado correctamente Python con el siguiente comando.
 python3 -V
 ```
 
-{: .box-warning}  Si no le funciona el comando anterior, intente ejecutar `python -V` o `py -V`.
+{: .box-warning} Warning: Si no le funciona el comando anterior, intente ejecutar `python -V` o `py -V`.
 
 ## Visual Studio Code
 
