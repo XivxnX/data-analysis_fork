@@ -139,3 +139,5 @@ vendor/
 
 
 Gemfile.lock
+
+tests/*
