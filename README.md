@@ -1,7 +1,4 @@
----
-title: Análisis de datos con Python
-cover-img: /material/main.jpg
----
+# Análisis de datos con Python
 
 Dentro de este curso, se aprenderá a conocer y utilizar distintas librerías básicas de análisis de datos en Python.
 
