@@ -1,14 +1,27 @@
 # Análisis de datos con Python
 
-Helloooo
+Dentro de este curso, se aprenderá a conocer y utilizar distintas librerías básicas de análisis de datos en Python.
 
-> Hello this is a test
+## Proceso de análisis de datos
 
-```python
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-from scipy import ... # you need to specify exact sub-packages that you need
-``` 
+El siguiente es el proceso de análisis de datos que vamos a ver.
 
-More stufff
+![Proceso de análisis de datos](./material/model.png)
+
+Específicamente, vamos a concentrarnos en los pasos de procesamiento de los datos, visualización de los datos y la construcción de modelos. Los enlaces a cada una de las fases se describen a continuación.
+
+| Etapa         | Detalle                                                                                                              | Referencia                              |
+|---------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| Configuración | Para poder iniciar el proceso, debemos configurar nuestro ambiente para que sea de uso.                              | [Enlace](./1-setup/README)              |
+| Procesamiento | Se procesan los datos para que puedan ser utilizados en etapas posteriores.                                          | [Enlace](./2-data_processing/README)    |
+| Visualización | Se visualiza la información para obtener conocimiento para el negocio y construir modelos.                           | [Enlace](./3-data_visualization/README) |
+| Modelado      | Se construyen distintos tipos de modelos que sirven para predecir, clasificar, agrupar, entre otras funcionalidades. | [Enlace](./4-data_modeling/README)      |
+
+## Material general
+
+A continuación puede encontrar referencias al material general del curso.
+
+| Material         | Enlace            |
+|------------------|-------------------|
+| Presentación     | [Enlace](PENDING) |
+| Videos de clases | [Enlace](PENDING) |
