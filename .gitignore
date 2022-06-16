@@ -140,4 +140,4 @@ vendor/
 
 Gemfile.lock
 
-tests/*
+tests/

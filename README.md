@@ -23,5 +23,5 @@ A continuación puede encontrar referencias al material general del curso.
 
 | Material         | Enlace            |
 |------------------|-------------------|
-| Presentación     | [Enlace](PENDING) |
-| Videos de clases | [Enlace](PENDING) |
+| Presentación     | [Enlace](./material/general.pdf) |
+| Videos de clases |  |
