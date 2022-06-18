@@ -1,4 +1,4 @@
-# Procesamiento de datos
+# Procesamiento de datoss
 
 Los datos que se obtienen se deben procesar, agregar o filtrar para poderlos utilizar en visualizaciones y modelos. Además, podemos analizar con estadísticas los datos y guardar resultados.
 
