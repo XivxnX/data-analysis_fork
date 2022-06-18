@@ -25,5 +25,8 @@ average_rating_count = average(df["ratings_count"])
 print(f"Calificaciones promedio: {average_rating_count:.2f}")
 
 median_rating_count = median(df['ratings_count'])
-print("Calificaciones mediana: " + str(median_rating_count)clock_settime)
+print("Calificaciones mediana: " + str(median_rating_count))
 # median(f"Calificaiones mediana: {median_rating_count}")
+
+std_rating_count = std(df["ratings_count"])
+print(f"Calificaciones std: {std_rating_count:.2f}")
