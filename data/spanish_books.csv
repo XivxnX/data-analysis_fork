@@ -1,0 +1,219 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_count,text_reviews_count,publication_date,publisher,ratings_vs_review_count,year
+201,Una arruga en el tiempo – A Wrinkle in Time,Madeleine L'Engle,4.0,0606105263,9780606105262,spa,205,6,1,6/1/1984,Turtleback Books,6.0,1984
+324,Cien años de soledad,Gabriel García Márquez,4.07,0785950109,9780785950103,spa,448,63,7,1/1/1990,French & European,9.0,1990
+337,El perfume: Historia de un asesino,Patrick Süskind,4.02,8432216062,9788432216060,spa,239,4136,255,6/1/2002,Booket,16.219607843137254,2002
+762,Crónica de una muerte anunciada,Gabriel García Márquez,3.97,1400034957,9781400034956,spa,118,7888,411,10/14/2003,Vintage Espanol,19.19221411192214,2003
+763,Cien años de soledad,Gabriel García Márquez,4.07,0307350428,9780307350428,spa,496,130,5,2/7/2006,Plaza y Janes,26.0,2006
+764,Del amor y otros demonios,Gabriel García Márquez,3.98,0307350444,9780307350442,spa,176,4508,278,2/7/2006,Plaza y Janes,16.215827338129497,2006
+766,Memoria de mis putas tristes,Gabriel García Márquez,3.6,1400095808,9781400095803,spa,112,5856,377,10/19/2004,Vintage Espanol,15.53315649867374,2004
+797,Lonely Planet Londres,Lonely Planet/Sarah Johnstone/Tom Masters,4.03,8408064762,9788408064763,spa,480,0,0,5/1/2006,Geoplaneta,,2006
+965,Ángeles y demonios (Robert Langdon  #1),Dan Brown,3.89,849561877X,9788495618771,spa,508,196,20,12/1/2005,Umbriel,9.8,2005
+966,Angeles & Demonios,Dan Brown/Raúl Amundaray,3.89,0972859896,9780972859899,spa,18,65,7,12/1/2005,FonoLibro,9.285714285714286,2005
+1204,Freakonomics: Un economista políticamente incorrecto explora el lado oculto de lo que nos afecta,Steven D. Levitt/Stephen J. Dubner,3.97,8466625127,9788466625128,spa,250,193,23,8/1/2006,Ediciones B,8.391304347826088,2006
+1642,Formas breves,Ricardo Piglia,4.17,843392463X,9788433924636,spa,144,240,30,6/1/2001,Anagrama,8.0,2001
+1643,El último lector,Ricardo Piglia,4.14,8433968777,9788433968777,spa,209,331,24,7/15/2009,Anagrama,13.791666666666666,2009
+1646,Respiración artificial,Ricardo Piglia,3.96,8433924710,9788433924711,spa,218,1279,77,3/1/2008,Anagrama,16.61038961038961,2008
+1654,Plata quemada,Ricardo Piglia,3.76,8433924621,9788433924629,spa,227,1098,65,7/1/2005,Anagrama,16.892307692307693,2005
+1667,El túnel,Ernesto Sabato,4.05,8432216429,9788432216428,spa,159,453,60,7/1/2003,Seix Barral,7.55,2003
+1710,Confesiones de un chef,Anthony Bourdain,4.07,8466308954,9788466308953,spa,478,11,0,2/1/2003,Santillana USA Publishing Company,inf,2003
+1914,La Tierra es plana: Breve historia del mundo globalizado del siglo XXI,Thomas L. Friedman,3.68,8427032226,9788427032224,spa,495,38,0,1/1/2006,Planeta Publishing,inf,2006
+2378,El Coleccionista De Huesos (Lincoln Rhyme  #1),Jeffery Deaver,4.19,8466305130,9788466305136,spa,640,26,2,6/1/2003,Punto de Lectura,13.0,2003
+2538,El hombre duplicado,José Saramago/Pilar del Río,3.89,8466312803,9788466312806,spa,380,1295,106,9/1/2004,Punto de Lectura,12.216981132075471,2004
+2539,Ensayo sobre la lucidez,José Saramago/Pilar del Río,3.8,8466314741,9788466314749,spa,461,1744,124,1/1/2005,Punto de Lectura,14.064516129032258,2005
+2541,La caverna,José Saramago/Pilar del Río,3.84,846630679X,9788466306799,spa,441,842,69,2/1/2003,Punto de Lectura,12.202898550724637,2003
+2543,Las intermitencias de la muerte,José Saramago/Pilar del Río,4.0,9587043642,9789587043648,spa,274,2862,306,12/1/2005,Alfaguara,9.352941176470589,2005
+3298,El bosque de los pigmeos,Isabel Allende,3.77,0060816198,9780060816193,spa,304,1099,46,9/6/2005,HarperCollins Espanol,23.891304347826086,2005
+3301,La casa de los espíritus,Isabel Allende,4.23,0060951303,9780060951306,spa,454,608,38,9/18/2001,HarperCollins Espanol,16.0,2001
+3302,El plan infinito,Isabel Allende,3.72,0060951273,9780060951276,spa,336,514,33,5/14/2002,Harper Perennial,15.575757575757576,2002
+3303,El reino del dragón de oro,Isabel Allende,3.84,0060591714,9780060591717,spa,432,1189,51,9/7/2004,HarperCollins Espanol,23.313725490196077,2004
+3357,Harry Potter Y La Piedra Filosofal (Harry Potter  #1),J.K. Rowling,4.47,0613359607,9780613359603,spa,254,142,12,3/6/2001,Turtleback Books,11.833333333333334,2001
+3468,El Guardián,Nicholas Sparks/Ramón González Férriz,4.15,8496284530,9788496284531,spa,444,31,3,4/1/2005,Roca Editorial,10.333333333333334,2005
+3918,Divorcio a la Francesa: Le Divorce,Diane Johnson/Carlos Milla Soler/Roberto Fernandez Sastre,2.88,8420466557,9788420466552,spa,388,6,0,6/1/2003,Santillana USA Publishing Company,inf,2003
+3938,Hyperion (Los Cantos de Hyperion  #1),Dan Simmons/Carlos Alberto Gardini,4.24,8466617353,9788466617352,spa,618,174,14,6/1/2005,Ediciones B,12.428571428571429,2005
+4250,El código Da Vinci (Robert Langdon  #2),Dan Brown/Juanjo Estrella,3.84,8495618605,9788495618603,spa,557,3276,190,10/17/2003,Umbriel,17.242105263157896,2003
+4390,Los funerales de la Mamá Grande,Gabriel García Márquez,3.78,0307350320,9780307350329,spa,160,4694,133,2/7/2006,Plaza y Janes,35.29323308270677,2006
+4515,Las luces de septiembre (Niebla  #3),Carlos Ruiz Zafón,3.77,8423671267,9788423671267,spa,279,5119,217,10/1/2005,Edebé,23.589861751152075,2005
+4520,El príncipe de la niebla (Trilogía de la Niebla  #1),Carlos Ruiz Zafón,3.7,0061284386,9780061284380,spa,230,3602,325,11/21/2006,Rayo,11.083076923076923,2006
+4700,Chamán (Familia Cole  #2),Noah Gordon/Elsa Mateo,4.12,849654642X,9788496546424,spa,768,493,24,6/30/2006,Zeta Bolsillo,20.541666666666668,2006
+4714,The Damned and the Beautiful: American Youth in the 1920's,Paula S. Fass,3.76,0195024923,9780195024920,spa,520,83,14,2/19/1978,Oxford University Press  USA,5.928571428571429,1978
+5008,El azul de la virgen,Tracy Chevalier,3.66,8466313591,9788466313599,spa,411,50,5,10/1/2004,Punto de Lectura,10.0,2004
+5061,La verdad acerca de las Industrias Farmacéuticas: cómo nos engaña y qué hacer al respecto,Marcia Angell,3.95,9580493510,9789580493518,spa,324,3,0,12/1/2006,Norma,inf,2006
+5794,El Aleph,Jorge Luis Borges,4.38,9500425998,9789500425995,spa,253,146,9,9/1/2007,Planeta Publishing,16.22222222222222,2007
+6896,Las rubias de 5th Avenue,Plum Sykes,3.28,8497935888,9788497935883,spa,304,5,0,2/28/2005,Debolsillo,inf,2005
+6954,Como agua para chocolate,Laura Esquivel,3.95,0785731237,9780785731238,spa,248,11,2,6/1/1994,Turtleback Books,5.5,1994
+7549,Jimmy Corrigan: El Chico más Listo del Mundo,Chris Ware,4.09,1594972079,9781594972072,spa,380,12,1,7/25/2006,Public Square Books,12.0,2006
+7677,Jurassic Park (Jurassic Park  #1),Michael Crichton,4.02,030734813X,9780307348135,spa,480,451443,3647,4/4/2006,Plaza y Janes,123.78475459281601,2006
+7786,¡Horton escucha a quién!,Dr. Seuss/Yanitzia Canetti,4.18,1930332351,9781930332355,spa,64,29,4,3/1/2003,Lectorum Publications,7.25,2003
+8373,El Reino Animal,Sergio Ramírez,3.69,9707705736,9789707705739,spa,256,16,4,7/1/2006,Alfaguara,4.0,2006
+8799,Ahora sabréis lo que es correr,Dave Eggers/María Victoria Alonso Blanco,3.63,8439710097,9788439710097,spa,400,3,1,3/31/2004,Mondadori,3.0,2004
+9288,La casa de los espíritus,Isabel Allende,4.23,9500717638,9789500717632,spa,456,198,18,9/1/2000,Sudamericana,11.0,2000
+9506,Un Lugar Llamado Nada,Amy Tan/Claudia Conde,3.43,840806701X,9788408067016,spa,475,98,6,8/30/2006,Planeta Publishing,16.333333333333332,2006
+9713,El amor en los tiempos del cólera,Gabriel García Márquez,3.91,9500703203,9789500703208,spa,451,663,46,1/1/1992,Sudamericana,14.41304347826087,1992
+9866,Los Versos Satánicos,Salman Rushdie,3.71,8497598369,9788497598361,spa,679,1,0,8/30/2003,Debolsillo,inf,2003
+10495,El nombre de la rosa,Umberto Eco,4.12,8497592581,9788497592581,spa,782,158,11,2/28/2006,DeBolsillo,14.363636363636363,2006
+10585,Insomnia,Stephen King/Bettina Blanch Tyroller,3.82,8497597729,9788497597722,spa,890,117901,2028,2/28/2005,Debolsillo,58.13658777120315,2005
+10603,Cujo,Stephen King,3.71,0307348245,9780307348241,spa,432,197993,2816,6/6/2006,Plaza y Janés,70.31001420454545,2006
+10620,Misery,Stephen King/María Mir,4.16,074323359X,9780743233590,spa,368,129,13,3/26/2002,Simon & Schuster Libros en Español,9.923076923076923,2002
+10751,Wicked: Memorias de una bruja mala (Los años malvados  #1),Gregory Maguire/Claudia Conde,3.53,0061351393,9780061351396,spa,508,47,10,5/1/2007,Rayo,4.7,2007
+10939,Ya Sé Que Te Quiero,Billy Crystal/Elizabeth Sayles,4.19,0060845988,9780060845988,spa,40,0,0,4/11/2006,Rayo,,2006
+11005,El Clan Del Oso Cavernario,Jean M. Auel/Leonor Tejada Conde-Pelayo,4.05,9684581149,9789684581142,spa,548,176,12,9/1/1981,Lasser Press,14.666666666666666,1981
+11027,No me cogeréis vivo: artículos 2001-2005,Arturo Pérez-Reverte,4.16,8420469432,9788420469430,spa,537,199,5,11/10/2005,Alfaguara,39.8,2005
+11071,Relatos de lo inesperado,Roald Dahl/Carmelina Payá/Antonio Samons,4.18,8433920863,9788433920867,spa,320,387,30,6/30/2016,Anagrama,12.9,2016
+11594,La Torre Oscura VII - Tomo 2 of 2 (La Torre Oscura  #7),Stephen King/Verónica Canales,4.24,9506440824,9789506440824,spa,496,192,9,4/28/2006,Plaza y Janés,21.333333333333332,2006
+11608,El umbral de la noche,Stephen King/Gregorio Vlastelica/Eduardo Goligorsky,4.0,060981088X,9780609810880,spa,424,737,119,9/4/2001,Plaza y Janés,6.19327731092437,2001
+11613,La danza de la muerte,Stephen King/Eduardo Goligorsky,4.34,8401321689,9788401321689,spa,613,64,3,7/10/1986,Plaza & Janes Editores Sa,21.333333333333332,1986
+11695,La Vida Nueva,Orhan Pamuk/Rafael Carpintero,3.56,9707707763,9789707707764,spa,282,7,0,10/1/2006,Alfaguara,inf,2006
+11698,Me llamo rojo,Orhan Pamuk/Rafael Carpintero,3.85,8466368876,9788466368872,spa,687,413,45,1/1/2007,Punto de Lectura,9.177777777777777,2007
+11772,El Hotel New Hampshire,John Irving/Iris Menéndez,3.9,8472238660,9788472238664,spa,457,18,3,9/1/1995,TusQuets,6.0,1995
+12071,Buenos Presagios: las buenas y ajustadas profecías de Agnes La Chalada,Terry Pratchett/Neil Gaiman,4.25,159497098X,9781594970986,spa,318,104,14,4/25/2005,Norma Editorial,7.428571428571429,2005
+12616,11 de Septiembre,Noam Chomsky,3.73,158322565X,9781583225653,spa,144,14,2,9/3/2002,Siete Cuentos,7.0,2002
+12676,Carrie (Biblioteca de Stephen King. 102  8),Stephen King/Gregorio Vlastelica,3.96,0609810901,9780609810903,spa,288,67,3,9/4/2001,Plaza y Janes,22.333333333333332,2001
+12678,Carrie,Stephen King,3.96,9685957002,9789685957007,spa,254,28,9,4/30/2005,Debolsillo,3.111111111111111,2005
+13228,Cumbres borrascosas,Emily Brontë,3.85,8497644743,9788497644747,spa,384,156,28,5/28/2006,Edimat Libros,5.571428571428571,2006
+13446,El retrato de Rose Madder,Stephen King/Bettina Blanch Tyroller,3.7,0307376583,9780307376589,spa,496,218,30,10/3/2006,Debolsillo,7.266666666666667,2006
+13449,La Milla Verde,Stephen King/María Eugenia Ciocchini Suárez,4.44,0743233603,9780743233606,spa,448,9,1,3/26/2002,Fireside Books,9.0,2002
+14196,Jonathan Strange y el señor Norrell,Susanna Clarke/Ana María de la Fuente,3.82,8478889736,9788478889730,spa,795,200,38,9/1/2005,Salamandra,5.2631578947368425,2005
+14312,El cazador de autógrafos,Zadie Smith,3.16,8478888462,9788478888467,spa,379,11,1,12/30/2003,Salamandra,11.0,2003
+14535,El Perfume: Historia De Un Asesino,Patrick Süskind,4.02,8432216887,9788432216886,spa,312,17,1,2/19/2018,Planeta Publishing,17.0,2018
+14768,Los diarios de Nanny,Emma McLaughlin/Nicola Kraus,3.42,8420465607,9788420465609,spa,392,33,4,1/1/2003,Santillana USA Publishing Company,8.25,2003
+14868,Compasión,Jodi Picoult,3.58,8408068911,9788408068914,spa,554,12,1,1/1/2007,Booket,12.0,2007
+14983,El laberinto,Kate Mosse/Claudia Conde,3.57,8408065874,9788408065876,spa,626,52,6,1/1/2006,Planeta Publishing,8.666666666666666,2006
+15138,La mujer del viajero en el tiempo,Audrey Niffenegger/Silvia Alemany,3.97,0307344835,9780307344830,spa,608,20,2,12/6/2005,Random House Mondadori,10.0,2005
+15766,El matrimonio amateur,Anne Tyler/Gemma Rovira,3.62,8466307605,9788466307604,spa,459,4,1,11/1/2006,Punto de Lectura,4.0,2006
+15862,Estado De Miedo,Michael Crichton,3.7,9685959757,9789685959759,spa,685,2,0,6/30/2005,Plaza & Janés Mexico,inf,2005
+15872,Harry Potter y el misterio del príncipe (Harry Potter  #6),J.K. Rowling/Gemma Rovira Ortega,4.57,8478889930,9788478889938,spa,602,5104,386,2/28/2006,Salamandra,13.22279792746114,2006
+15876,Harry Potter y la Orden del Fénix (Harry Potter  #5),J.K. Rowling,4.49,8478888845,9788478888849,spa,893,5637,458,2/21/2004,Emece Editores,12.307860262008735,2004
+15887,La historia de la familia Roccamatio de Helsinki,Yann Martel/Bianca Southwood,3.48,8423338665,9788423338665,spa,91,14,2,1/1/2007,Destino Ediciones,7.0,2007
+15952,Noches de tormenta,Nicholas Sparks/Isabel Margelí,3.84,8496544141,9788496544147,spa,190,22,5,6/1/2006,Roca Editorial,4.4,2006
+16102,Mi vida en rose,David Sedaris,3.99,8497934903,9788497934909,spa,240,5,2,11/15/2004,Debolsillo,2.5,2004
+16191,Un café lejos de aquí,Z.Z. Packer/María Pérez López de Heredia,3.84,8496454339,9788496454330,spa,283,8,0,7/1/2006,Tropismos,inf,2006
+16199,Citas Celestiales,Alexander McCall Smith/Marta Torent López de Lamadrid,3.16,8489367159,9788489367159,spa,190,1,0,11/1/2006,Umbriel,inf,2006
+16569,Ficciones,Jorge Luis Borges/Gordon Botherston/Peter Hulme,4.45,1853995908,9781853995903,spa,232,90,4,12/9/1999,BCP/Duckworth Publishing,22.5,1999
+17356,Brevísima historia del tiempo,Stephen Hawking/Leonard Mlodinow/David Jou i Mirabent,4.22,8484326373,9788484326373,spa,198,64,4,3/8/2005,Critica (Grijalbo Mondadori),16.0,2005
+17384,Amor Y Respeto/love And Respect: El Respeto Que El Desesperadamente Necesita/ The Love She Most Desires And The Respect He Desperately Needs,Emerson Eggerichs,4.18,1591855101,9781591855101,spa,292,13,0,5/6/2005,Casa Creacion,inf,2005
+17506,La gata perdida = The Missing Cat (Las Aventuras de Nicolas = Adventures with Nicholas),Chris L. Demarest/Berlitz Publishing Company,4.14,9812468234,9789812468239,spa,64,0,0,8/15/2006,Berlitz Kids,,2006
+17783,Corazón de mar (Gallagher  #3),Nora Roberts/Juan Larrea,4.15,8466307257,9788466307253,spa,396,12,0,7/1/2002,Punto de Lectura,inf,2002
+17807,Gravitation #2,Maki Murakami,3.99,848449487X,9788484494874,spa,208,10,0,6/30/2004,Ediciones Glénat España,inf,2004
+17947,Museo: Textos Ineditos,Adolfo Bioy Casares,4.17,9500424134,9789500424134,spa,261,6,0,10/1/2002,Emecé Editores,inf,2002
+17950,Obra Poética,Jorge Luis Borges,4.49,9500426161,9789500426169,spa,645,50,3,6/1/2005,Emecé Editores,16.666666666666668,2005
+18403,El Club Dante,Matthew Pearl/Vicente Villacampa,3.38,8432217204,9788432217203,spa,586,156,9,3/1/2006,Planeta Publishing,17.333333333333332,2006
+18404,El club Dante,Matthew Pearl/Vicente Villacampa,3.38,8432296325,9788432296321,spa,464,57,2,8/30/2004,Seix Barral,28.5,2004
+19100,1984,George Orwell/Mauricio Molina/Miguel Martínez Sarmiento,4.18,9685270880,9789685270885,spa,301,451,42,8/1/2002,Lectorum,10.738095238095237,2002
+19136,El misterio de Salem's Lot,Stephen King/Marta I. Guastavino,4.02,8484504794,9788484504795,spa,509,16,3,12/17/2002,Plaza & Janes Editores  S.A.,5.333333333333333,2002
+19279,Norte,Seamus Heaney/Margarita Ardanaz,4.09,8475173462,9788475173467,spa,155,6,1,11/28/1992,Hiperión,6.0,1992
+19316,Pippi Calzaslargas (Pippi Calzaslargas  #1),Astrid Lindgren/Blanca Ríos/Richard Kennedy,4.13,8426131921,9788426131928,spa,137,85,14,7/1/2005,Editorial Juventud,6.071428571428571,2005
+19669,Clave Red Rabbit (Jack Ryan  #2),Tom Clancy/Enric Tremps,3.67,8408065068,9788408065067,spa,720,8,0,2/1/2006,Planeta Publishing,inf,2006
+19903,Qué Se Puede Esperar Cuando Se Está Esperando,Heidi Murkoff/Arlene Eisenberg,3.77,076113686X,9780761136866,spa,624,27,2,1/31/2006,Workman Publishing Company,13.5,2006
+21803,La princesa prometida,William Goldman,4.26,8427030975,9788427030978,spa,480,39,7,6/14/2005,Planeta Publishing,5.571428571428571,2005
+22141,La economía Long Tail,Chris Anderson/Federico Villegas Silva Lezama,3.81,8493464260,9788493464264,spa,318,24,3,7/1/2007,Ediciones Urano,8.0,2007
+22176,Doce cuentos peregrinos,Gabriel García Márquez,4.03,1400034949,9781400034949,spa,192,3205,195,11/14/2006,Vintage,16.435897435897434,2006
+22242,El ojo de fuego,Lewis Perdue,3.66,848974615X,9788489746152,spa,496,18,1,2/1/2007,Puzzle-Via Magna,18.0,2007
+22298,Fantasmas,Chuck Palahniuk/Javier Calvo,3.59,9879397509,9789879397503,spa,442,116,13,8/28/2006,Mondadori,8.923076923076923,2006
+22302,Error humano,Chuck Palahniuk/Javier Calvo,3.57,8439711867,9788439711865,spa,253,11,1,5/31/2005,Mondadori,11.0,2005
+22380,JLA: Tierra 2,Grant Morrison/Frank Quitely/Rafael De la Iglesia,3.97,987224975X,9789872249755,spa,96,7,2,11/25/2005,Sticker Design (DC Comics),3.5,2005
+22590,Ubik,Philip K. Dick/David Alabort/Manuel Espín,4.09,8498000831,9788498000832,spa,288,63422,2486,5/1/2006,La factoría de ideas,25.51166532582462,2006
+22724,¿Quién te lo ha contado?,Marian Keyes,3.79,8497936736,9788497936736,spa,648,169,9,12/30/2005,DeBolsillo,18.77777777777778,2005
+22726,Por los pelos,Marian Keyes,3.81,1400002214,9781400002214,spa,592,34,5,9/17/2002,Plaza y Janes,6.8,2002
+22733,Rachel se va de viaje (La familia Walsh  #2),Marian Keyes,3.95,8497599179,9788497599177,spa,595,204,21,3/30/2003,DeBolsillo,9.714285714285714,2003
+22743,Rachel se va de viaje (La familia Walsh  #2),Marian Keyes,3.95,840132954X,9788401329548,spa,594,7,0,1/31/2003,DeBolsillo,inf,2003
+22826,Lamu: Urusei Yatsura  3,Rumiko Takahashi,4.08,8484497283,9788484497288,spa,416,38,0,8/30/2005,Glénat,inf,2005
+23186,Bugs for Lunch/Insectos para el almuerzo,Margery Facklam/Sylvia Long/Liliana Valenzuela,3.78,1570915067,9781570915062,spa,32,4,1,7/1/2002,Charlesbridge,4.0,2002
+23479,La casa en Mango Street,Sandra Cisneros/Elena Poniatowska,3.63,0613046889,9780613046886,spa,110,35,5,10/18/1994,Turtleback Books,7.0,1994
+23875,El coronel no tiene quien le escriba,Gabriel García Márquez,3.75,0307350436,9780307350435,spa,104,19205,711,2/7/2006,Plaza & Janés,27.0112517580872,2006
+23877,Noticia de un secuestro,Gabriel García Márquez,3.85,0307350509,9780307350503,spa,336,1444,80,2/7/2006,Plaza y Janes,18.05,2006
+23882,Ojos de perro azul,Gabriel García Márquez,3.74,0307350517,9780307350510,spa,192,3303,116,2/7/2006,Plaza y Janes,28.474137931034484,2006
+23886,La increíble y triste historia de la cándida Eréndira y de su abuela desalmada,Gabriel García Márquez,3.9,0307350363,9780307350367,spa,160,21,1,2/7/2006,Plaza y Janés,21.0,2006
+23894,Cien años de soledad,Gabriel García Márquez,4.07,0307350274,9780307350275,spa,512,52,7,2/7/2006,Plaza y Janes,7.428571428571429,2006
+23895,El amor en los tiempos del cólera,Gabriel García Márquez,3.91,8467204362,9788467204360,spa,430,54,1,1/1/1985,Círculo de Lectores,54.0,1985
+23900,Relato de un náufrago,Gabriel García Márquez,3.78,0307350401,9780307350404,spa,172,2095,121,2/7/2006,Plaza y Janes,17.31404958677686,2006
+24001,Soldados de Salamina,Javier Cercas,3.81,8483101610,9788483101612,spa,209,4382,235,9/1/2001,Tusquets,18.646808510638298,2001
+24925,La conjura de los necios,John Kennedy Toole,3.89,8496333604,9788496333604,spa,462,70,6,1/10/2006,Quinteto,11.666666666666666,2006
+25037,El rey de Les Halles,Juliette Benzoni/Francisco Rodriguez de Lecea,4.19,8466619453,9788466619455,spa,448,207,5,1/1/2007,Ediciones B,41.4,2007
+25395,Una Vida Con Proposito Volumen 6,Rick Warren,4.35,1417499737,9781417499731,spa,56,26,3,5/31/2005,Vida,8.666666666666666,2005
+25516,Malinche,Laura Esquivel/Jordi Castells,3.28,0743290348,9780743290340,spa,189,99,20,2/7/2006,Atria Books,4.95,2006
+25623,Amarse con los ojos abiertos,Jorge Bucay/Silvia Salinas,3.73,8479019395,9788479019396,spa,237,1425,59,3/1/2004,Alfaguara,24.152542372881356,2004
+27092,Desde mi cielo,Alice Sebold/Aurora Echevarría,3.81,0307209431,9780307209436,spa,336,28,3,10/12/2004,Debolsillo,9.333333333333334,2004
+27299,La Emperatriz tras el velo (Trilogía Taj Mahal  #1),Indu Sundaresan/Alberto Coscarelli,4.04,8425337607,9788425337604,spa,382,2,1,4/30/2003,Grijalbo Mondadori Sa,2.0,2003
+27618,Hasta que te encuentre,John Irving/Carlos Milla Soler,3.63,8483103311,9788483103319,spa,1024,28,3,5/1/2006,TusQuets,9.333333333333334,2006
+27647,Secretos De Familia,Julia Glass,3.57,8496525031,9788496525030,spa,528,0,1,11/1/2006,Puzzle-Roca,0.0,2006
+27776,La caída,Albert Camus/Manuel de Lope,4.04,8420637017,9788420637013,spa,128,233,20,9/19/2005,Alianza Editorial,11.65,2005
+28340,Las Noches Blancas. El Jugador. Un Ladrón Honrado. (Sepan Cuantos  #259),Fyodor Dostoyevsky,3.9,9684324162,9789684324169,spa,147,52,7,10/28/1998,Porrua,7.428571428571429,1998
+28344,Los hermanos Karamazov,Fyodor Dostoyevsky/Alexander Pushkin/Guillermo Suazo Pascual,4.32,847640509X,9788476405093,spa,805,30,4,7/1/1999,Edaf S.A.,7.5,1999
+28860,El Evangelio Según Jesucristo,José Saramago/Basilio Losada,4.29,8466300651,9788466300650,spa,480,34,6,10/1/2001,Santillana USA Publishing Company,5.666666666666667,2001
+28869,Pégate un tiro para sobrevivir: un viaje personal por la América de los mitos,Chuck Klosterman,3.81,8439720033,9788439720034,spa,272,27,2,2/28/2006,Literatura Random House,13.5,2006
+30270,Pacto Con un Demonio,Kim Harrison,4.39,0060898720,9780060898724,spa,512,0,0,7/1/2008,HarperTorch,,2008
+30423,Un nuevo amanecer,Sandra Brown/Delia Mateovich,3.98,1400001048,9781400001040,spa,560,3,1,1/22/2002,Plaza y Janes,3.0,2002
+30432,Anhelos ocultos,Laura  Jordan/Sandra Brown/Camino Estañ Requeni,3.94,8401505534,9788401505539,spa,380,32,8,3/27/1996,Cisne,4.0,1996
+30629,Cartas del diablo a su sobrino,C.S. Lewis/Miguel Marias,4.22,006114004X,9780061140044,spa,144,409,54,3/14/2006,HarperOne,7.574074074074074,2006
+30985,El Escorpion: La Marca del Diablo: El Escorpion: The Mark of the Devil,Stephen Desberg/Enrico Marini,3.84,1594970009,9781594970009,spa,56,20,2,10/1/2004,Public Square Books,10.0,2004
+31004,El Diablo Cojuelo,Luis Vélez de Guevara,3.06,8437604826,9788437604824,spa,192,13,2,1/11/2007,Cátedra,6.5,2007
+31016,El diablo de la botella,Robert Louis Stevenson/Diana Castellanos/Eleonora Garcia Larralde,3.74,9580408556,9789580408550,spa,77,34,2,7/15/2018,Grupo Editorial Norma  S.A.,17.0,2018
+31722,Me Alquilo Para Soñar (Taller de Guión  #62),Gabriel García Márquez,3.83,1400092965,9781400092963,spa,224,141,17,3/2/2004,Debolsillo,8.294117647058824,2004
+31740,La increíble y triste historia de la cándida Eréndira y de su abuela desalmada,Gabriel García Márquez,3.9,9681317084,9789681317089,spa,157,90,7,5/30/2004,Editorial Diana,12.857142857142858,2004
+31761,El Dia Que Nietzsche Lloró,Irvin D. Yalom,4.32,9875801445,9789875801448,spa,445,66,4,10/24/2006,Planeta,16.5,2006
+32386,El Retrato De Dorian Gray,Oscar Wilde,4.08,849531178X,9788495311788,spa,251,43,5,4/7/2006,Mestas Ediciones,8.6,2006
+32679,Carretera maldita,Richard Bachman/Stephen King/Joseph M. Apfelbäume,3.6,8401474728,9788401474729,spa,362,336,37,2/1/1999,Plaza & Janés Editores  S.A.,9.08108108108108,1999
+32695,El talismán,Stephen King/Peter Straub/Pilar Giralt Gorina,4.13,8408042432,9788408042433,spa,375,12,1,7/1/2003,Planeta Publishing,12.0,2003
+32696,El umbral de la noche,Stephen King/Gregorio Vlastelica/Eduardo Goligorsky,4.0,8497594290,9788497594295,spa,417,79,11,4/30/2004,Debolsillo,7.181818181818182,2004
+32702,Rabia,Richard Bachman/Stephen King/Hernán Sabaté Vargas,3.78,8427011504,9788427011502,spa,203,91,22,9/1/1987,Martínez Roca,4.136363636363637,1987
+32720,Ojos de fuego,Stephen King/Eduardo Goligorsky,3.88,0609810871,9780609810873,spa,528,353,29,9/4/2001,Plaza y Janés,12.172413793103448,2001
+33046,Ve  perro ¡Ve!,P.D. Eastman/Adolfo Pérez Perdomo,4.09,0375823611,9780375823619,spa,24,33,2,2/25/2003,Random House Para Ninos,16.5,2003
+33699,El librero de Kabul,Åsne Seierstad,3.76,9706519246,9789706519245,spa,285,112,18,11/1/2004,Grupo Océano,6.222222222222222,2004
+33747,La falsificadora,Jennifer Crusie/Marina Mariasch,3.92,9500426544,9789500426541,spa,420,18,1,9/1/2005,Planeta Publishing,18.0,2005
+33762,Bueno en la Cama,Jennifer Weiner/Eduardo García Murillo,3.72,849561863X,9788495618634,spa,415,4,0,6/1/2003,Umbriel,inf,2003
+34327,La Biblia de los Critales: Guia definitiva de los cristales (Cuerpo-Mente),Judy Hall,4.38,8484451143,9788484451143,spa,383,6,0,1/1/2006,Gaia Books,inf,2006
+35313,La Ley del Exito,Paramahansa Yogananda,4.44,0876121512,9780876121511,spa,32,0,0,6/1/1998,Self-Realization Fellowship Publishers,,1998
+36340,Isabel: Princesa De Castilla  España  1466,Carolyn Meyer/Carme Camps Monf,3.71,8478886745,9788478886746,spa,184,8,0,10/3/2001,Salamandra,inf,2001
+36550,Antes que anochezca,Reinaldo Arenas,4.17,8483105020,9788483105023,spa,343,427,35,2/28/2008,TusQuets,12.2,2008
+36859,Bailando al rescate (Dora La Exploradora),Dave Aikins/Laura Driscoll,3.47,1416915044,9781416915041,spa,24,2,0,9/1/2005,Libros para ninos,inf,2005
+37266,Adieu  Chunky Rice,Craig Thompson,3.8,2840558599,9782840558590,spa,128,10,1,6/20/2002,Delcourt,10.0,2002
+37330,Hijos de la medianoche,Salman Rushdie/Miguel Sáenz,3.98,8497934326,9788497934329,spa,798,63,13,2/3/2005,DeBolsillo,4.846153846153846,2005
+37592,Encuentro en el Ártico (Artemis Fowl  #2),Eoin Colfer,3.95,8497939212,9788497939218,spa,344,3,0,3/8/2006,Debolsillo,inf,2006
+37595,El cubo B (Artemis Fowl  #3),Eoin Colfer/Ana Alcaina,4.04,0307343111,9780307343116,spa,352,17,0,7/5/2005,Montena,inf,2005
+37683,Fahrenheit 451,Ray Bradbury/Alfredo Crespo,3.99,8497930053,9788497930055,spa,176,580,64,11/29/2004,Debolsillo,9.0625,2004
+38510,Tiempo De Matar,John Grisham,4.07,8408041258,9788408041252,spa,0,3,0,7/1/2003,Planeta Publishing,inf,2003
+38664,Pedro Páramo,Juan Rulfo,4.05,8433920707,9788433920706,spa,122,504,44,10/31/2013,Anagrama,11.454545454545455,2013
+38665,Pedro Páramo / El Llano en llamas,Juan Rulfo,4.29,9703705774,9788408066439,spa,290,5103,118,4/1/2006,Planeta,43.24576271186441,2006
+38667,Pedro Páramo,Juan Rulfo,4.05,9685208557,9789685208550,spa,132,1386,209,12/1/2009,Editorial RM,6.631578947368421,2009
+38669,Pedro Paramo / El Llano En Llamas,Juan Rulfo,4.29,840804575X,9788408045755,spa,290,6,2,11/1/2002,Planeta Publishing,3.0,2002
+39191,La máquina de follar,Charles Bukowski,3.92,8433920448,9788433920447,spa,190,951,85,7/1/1995,Anagrama,11.188235294117646,1995
+40130,Leonardo da Vinci: Obra pictorica completa y obra grafica,Frank Zöllner/Johannes Nathan/Frank Zöllner,4.26,3822817341,9783822817346,spa,696,56,4,2/1/2003,Taschen,14.0,2003
+40609,La fortaleza digital,Dan Brown/Eduardo García Murillo,3.65,8489367019,9788489367012,spa,440,1078,76,2/1/2006,Umbriel,14.18421052631579,2006
+41708,Muerte Blanca,Clive Cussler/Paul Kemprecos,3.91,030734326X,9780307343260,spa,421,2,0,9/6/2005,Debolsillo,inf,2005
+41715,La Ciudad Perdida (NUMA Files  #5),Clive Cussler/Paul Kemprecos,3.9,0307376648,9780307376640,spa,432,2,0,11/7/2006,Debolsillo,inf,2006
+41716,Sahara (Dirk Pitt  #11),Clive Cussler,3.96,030720961X,9780307209610,spa,400,51807,724,1/11/2005,Debolsillo,71.55662983425414,2005
+42430,Dune (Dune #1),Frank Herbert/Domingo Santos,4.22,849759682X,9788497596824,spa,702,565,93,10/30/2003,Debolsillo,6.075268817204301,2003
+42895,Una breve historia de casi todo,Bill Bryson/José Manuel Álvarez,4.21,8478713808,9788478713806,spa,567,713,68,4/30/2006,Rba Libros,10.485294117647058,2006
+43451,Flores en el ático,V.C. Andrews/Jesús Pardo,3.81,849759746X,9788497597463,spa,480,1399,220,8/30/2005,DeBolsillo,6.359090909090909,2005
+43487,Fulgor oculto (Landry  #3),V.C. Andrews/Elisa Cerdan,3.89,1400000742,9781400000746,spa,400,5,0,1/22/2002,Plaza y Janes,inf,2002
+43582,David Boring,Daniel Clowes,3.81,1594971226,9781594971228,spa,128,71,2,5/25/2005,Public Square Books,35.5,2005
+43779,Cántico de sangre (Crónicas Vampíricas  #10),Anne Rice/Camila Batlles,3.72,8466620265,9788466620260,spa,416,143,9,7/1/2006,Ediciones B,15.88888888888889,2006
+43792,La reina de los condenados (Crónicas Vampíricas  #3),Anne Rice,3.89,8466617116,9788466617116,spa,725,287,19,1/1/2007,Byblos,15.105263157894736,2007
+43812,Entrevista con el vampiro (Crónicas vampíricas  #1),Anne Rice/Marcelo Covián,3.99,8466616209,9788466616201,spa,463,1307,93,6/1/2005,Ediciones B,14.053763440860216,2005
+43817,El Mesías: El niño judío,Anne Rice/Luis Murillo,3.58,8466630031,9788466630030,spa,352,61,8,5/28/2007,Ediciones B,7.625,2007
+43821,Merrick (Crónicas Vampíricas  #7),Anne Rice,3.73,8466606602,9788466606608,spa,414,99,9,11/1/2002,Ediciones B,11.0,2002
+44018,Historia de una Gaviota y del Gato Que le Enseñó a Volar,Luis Sepúlveda/Chris Sheban,4.14,0439560268,9780439560269,spa,128,9,1,9/1/2003,Arthur A. Levine Books,9.0,2003
+44046,Jorge Luis Borges,Nextext/McDougal Publishing Staff,3.5,0618048235,9780618048236,spa,223,2,0,2/25/2000,Houghton Mifflin,inf,2000
+44224,Lincoln,Gore Vidal,4.21,8448306996,9788448306991,spa,354,5,0,7/30/2006,Acento Editorial,inf,2006
+44254,La telaraña de Carlota,E.B. White/Guillermo Solana/Garth Williams,4.17,006075740X,9780060757403,spa,224,225,38,10/4/2005,HarperCollins Espanol,5.921052631578948,2005
+44567,Todo está iluminado,Jonathan Safran Foer,3.9,030734312X,9780307343123,spa,352,8,0,7/5/2005,Debolsillo,inf,2005
+44649,7 hábitos de las familias altamente efectivas,Stephen R. Covey,4.16,1400083419,9781400083411,spa,412,7,0,9/1/2003,Grijalbo,inf,2003
+44790,Lo único que no podrás hacer en el cielo,Mark Cahill,4.13,0964366568,9780964366565,spa,255,15,0,3/1/2007,Mark Cahill Ministries,inf,2007
+44801,De profundis,Oscar Wilde,4.18,8484034348,9788484034346,spa,192,13,2,9/1/2004,Edimat Libros,6.5,2004
+45279,Criptonomicón II: El código Pontifex,Neal Stephenson/Pedro Jorge Romero,4.1,8466616926,9788466616928,spa,496,404,17,11/1/2005,Ediciones B,23.764705882352942,2005
+45283,Todo está iluminado,Jonathan Safran Foer,3.9,8497930975,9788497930970,spa,344,108,11,11/30/2007,DeBolsillo,9.818181818181818,2007
+45442,La venganza de Opal (Artemis Fowl  #4),Eoin Colfer/Ana Alcaina,4.05,0307344673,9780307344670,spa,368,42,2,11/1/2005,Random House Mondadori,21.0,2005
+45450,La última oportunidad,Eoin Colfer,3.77,0307350053,9780307350053,spa,258,2,0,4/4/2006,Plaza y Janes,inf,2006
+45455,Artemis Fowl (Artemis Fowl  #1),Eoin Colfer/Ana Alcaina,3.84,8497939204,9788497939201,spa,286,45,3,3/30/2006,DEBOLS!LLO,15.0,2006
+45462,La venganza de opal (Artemis Fowl  #4),Eoin Colfer,4.05,8484412474,9788484412472,spa,368,21,1,4/30/2005,Montena,21.0,2005
+45463,Encuentro en el Ártico (Artemis Fowl  #2),Eoin Colfer/Ana Alcaina Pérez,3.95,0307343103,9780307343109,spa,320,15,3,7/5/2005,Montena,5.0,2005
+45487,El catalejo lacado (La Materia Oscura  #3),Philip Pullman,4.09,8440699476,9788440699473,spa,446,565,49,5/1/2005,Ediciones B,11.53061224489796,2005
+45500,La conspiración de los alquimistas,Hania Czajkowski,4.0,030727411X,9780307274113,spa,488,51,4,3/5/2005,Debolsillo,12.75,2005
+45568,El Superzorro,Roald Dahl/Horacio Elena,4.05,9681907191,9789681907198,spa,96,174,20,6/1/2000,Alfaguara Infantil,8.7,2000
+45583,Historia del rey transparente,Rosa Montero,3.9,8466318771,9788466318778,spa,592,1266,90,9/1/2006,Punto de Lectura,14.066666666666666,2006
+45585,Bella y oscura,Rosa Montero,3.66,843221728X,9788432217289,spa,204,293,31,3/1/2006,Planeta Publishing,9.451612903225806,2006
+45592,La tía Julia y el escribidor,Mario Vargas Llosa,3.92,8466302298,9788466302296,spa,566,162,10,3/1/2001,Suma,16.2,2001
+45595,La Tía Julia y el Escribidor,Mario Vargas Llosa,3.92,8432203238,9788432203237,spa,447,25,4,7/10/1977,Seix Barral,6.25,1977
+45604,Narraciones Extraordinarias,Edgar Allan Poe,4.13,9583006408,9789583006401,spa,316,36,4,6/1/2004,Panamericana Editorial,9.0,2004
+45607,Las Crónicas de Narnia,C.S. Lewis/Margarita E. Valdes/Gemma Gallart/Pauline Baynes,4.26,0061199001,9780061199004,spa,816,186,11,11/7/2006,HarperCollins Espanol,16.90909090909091,2006
+45641,Las aventuras de Tom Sawyer,Mark Twain,3.91,8497646983,9788497646987,spa,272,113,12,5/28/2006,Edimat Libros,9.416666666666666,2006

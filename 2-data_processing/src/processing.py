@@ -42,8 +42,18 @@ df_statistics.to_csv("./data/statistics_books_rating_count.csv", index=False)
 df["ratings_vs_review_count"] = df["ratings_count"] / df["text_reviews_count"]
 print(df)
 
+# Crear una file para los años
 print("\n" * 5)
 df["year"] = df["publication_date"].str.split("/").str[-1]
 df["year"] = df["year"].astype(int)
 print(df["year"])
 
+# Obtener todos los lenguajes
+print("\n" * 5)
+lenguajes = df["language_code"].unique()
+print(lenguajes)
+
+#Seleccionar columnas que tengan ciertos valores
+spanish_books = df.loc[df["language_code"] == "spa"]
+print(spanish_books.head())
+spanish_books.to_csv("./data/spanish_books.csv", index=False)
