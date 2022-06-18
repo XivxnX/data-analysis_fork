@@ -1,4 +1,4 @@
-from pandas import read_csv
+from pandas import DataFrame, read_csv
 from numpy import average, median, std
 
 #Leer el archivo de Libros
@@ -30,3 +30,10 @@ print("Calificaciones mediana: " + str(median_rating_count))
 
 std_rating_count = std(df["ratings_count"])
 print(f"Calificaciones std: {std_rating_count:.2f}")
+
+print("\n" * 5)
+
+#Guardar datos de estadisticas en un archivos
+data = [["Average", average_rating_count], ["Median", median_rating_count], ["Std", std_rating_count]]
+df_statistics = DataFrame(data, columns=["statistic", "value"])
+df_statistics.to_csv("./data/statistics_books_rating_count.csv", index=False)
