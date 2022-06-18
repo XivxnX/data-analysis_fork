@@ -37,3 +37,7 @@ print("\n" * 5)
 data = [["Average", average_rating_count], ["Median", median_rating_count], ["Std", std_rating_count]]
 df_statistics = DataFrame(data, columns=["statistic", "value"])
 df_statistics.to_csv("./data/statistics_books_rating_count.csv", index=False)
+
+#Crear una nueva fila en el df
+df["ratings_vs_review_count"] = df["ratings_count"] / df["text_reviews_count"]
+print(df)
