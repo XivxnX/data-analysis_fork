@@ -23,3 +23,7 @@ print("\n" * 5)
 #Calcular estadisticas de la cantidad de calificaciones
 average_rating_count = average(df["ratings_count"])
 print(f"Calificaciones promedio: {average_rating_count:.2f}")
+
+median_rating_count = median(df['ratings_count'])
+print("Calificaciones mediana: " + str(median_rating_count)clock_settime)
+# median(f"Calificaiones mediana: {median_rating_count}")
