@@ -25,3 +25,10 @@ A continuación puede encontrar referencias al material general del curso.
 |------------------|-------------------|
 | Presentación     | [Enlace](./material/general.pdf) |
 | Videos de clases |  |
+
+## Referencias adicionales
+
+- [Ciencias de datos para principiantes](https://github.com/microsoft/Data-Science-For-Beginners)
+- [Aprendizaje mecánico para principiantes](https://github.com/microsoft/ML-For-Beginners)
+- [Inteligencia artificial para principiantes](https://github.com/microsoft/ai-for-beginners)
+- [Repensando estadística](https://github.com/rmcelreath/stat_rethinking_2022)
