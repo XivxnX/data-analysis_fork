@@ -4,7 +4,7 @@ Los datos que se obtienen se deben procesar, agregar o filtrar para poderlos uti
 
 ## Código
 
-PENDIENTE
+Puede encontrar el código realizado en el [siguiente enlace](.\2-data_processing\src\processing.py)
 
 ## Asignaciones
 

@@ -24,7 +24,6 @@ A continuación puede encontrar referencias al material general del curso.
 | Material         | Enlace            |
 |------------------|-------------------|
 | Presentación     | [Enlace](./material/general.pdf) |
-| Videos de clases |  |
 
 ## Referencias adicionales
 

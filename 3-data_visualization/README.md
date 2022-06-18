@@ -4,7 +4,7 @@ Con datos procesados, podemos generar visualizaciones para entender mejor los da
 
 ## Código
 
-PENDIENTE
+Puede encontrar el código realizado en el [siguiente enlace](.\3-data_visualization\src\visualization.py)
 
 ## Asignaciones
 
