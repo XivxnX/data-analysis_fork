@@ -54,6 +54,18 @@ lenguajes = df["language_code"].unique()
 print(lenguajes)
 
 #Seleccionar columnas que tengan ciertos valores
+print("\n" * 5)
 spanish_books = df.loc[df["language_code"] == "spa"]
 print(spanish_books.head())
 spanish_books.to_csv("./data/spanish_books.csv", index=False)
+
+#Seleccionar columnas entre un rango de valores
+print("\n" * 5)
+df_200x = df.loc[(df["year"] >= 2000) & (df["year"] < 2010)]
+print(df_200x.head())
+
+#Contar cuantas veces aparece un valor por lenguaje
+print(df["language_code"].value_counts())
+
+#Seleccionar max de valores
+print(df.groupby(['language_code'])["average_rating"].max())
