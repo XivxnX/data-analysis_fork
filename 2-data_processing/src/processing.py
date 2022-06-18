@@ -41,3 +41,9 @@ df_statistics.to_csv("./data/statistics_books_rating_count.csv", index=False)
 #Crear una nueva fila en el df
 df["ratings_vs_review_count"] = df["ratings_count"] / df["text_reviews_count"]
 print(df)
+
+print("\n" * 5)
+df["year"] = df["publication_date"].str.split("/").str[-1]
+df["year"] = df["year"].astype(int)
+print(df["year"])
+
