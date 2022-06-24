@@ -21,9 +21,10 @@ Específicamente, vamos a concentrarnos en los pasos de procesamiento de los dat
 
 A continuación puede encontrar referencias al material general del curso.
 
-| Material         | Enlace            |
-|------------------|-------------------|
-| Presentación     | [Enlace](./material/general.pdf) |
+| Material                 | Enlace                           |
+|--------------------------|----------------------------------|
+| Presentación general     | [Enlace](./material/general.pdf) |
+| Presentación modelos     | [Enlace](./material/ml.pdf) |
 
 ## Referencias adicionales
 
