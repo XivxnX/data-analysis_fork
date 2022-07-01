@@ -34,3 +34,4 @@ A continuación puede encontrar referencias al material general del curso.
 - [Inteligencia artificial para principiantes](https://github.com/microsoft/ai-for-beginners)
 - [Una introducción al aprendizaje estadístico](https://www.statlearning.com/)
 - [Repensando estadística](https://github.com/rmcelreath/stat_rethinking_2022)
+- [StatQuest](https://statquest.org/)
