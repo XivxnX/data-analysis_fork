@@ -39,5 +39,13 @@ for genero in generos:
     generos_stripped.append(genero.strip())
 print(generos_stripped)
 
+#Obtiene los generos unicos
 generos_unicos = list(set(generos_stripped))
 print(generos_unicos)
+
+print(df["genre"].unique())
+
+#Obtenga todas las canciones de la banda Coldplay.
+coldplay_songs = df.loc[df['artist'].isin(["Coldplay"])]
+coldplay_songs = coldplay_songs.drop_duplicates()
+print(coldplay_songs)
