@@ -22,3 +22,22 @@ df = read_csv("./data/spotify.csv")
 print(df["popularity"])
 guardar_primeras_cien_filas(df, "popularity", "./data/mas_populares.csv")
 guardar_primeras_cien_filas(df, "valence", "./data/mas_felices.csv")
+
+# Obtenga todos los géneros musicales únicos.
+#Obtenemos todos los generos por fila
+generos_por_fila = df["genre"].str.split(",").to_list()
+
+#Pasarlo de una matriz a una lista de una dimension
+generos = []
+for fila in generos_por_fila:
+    generos.extend(fila)
+print(generos)
+
+#Quitando los espacios adelante de las palabras en python
+generos_stripped = []
+for genero in generos:
+    generos_stripped.append(genero.strip())
+print(generos_stripped)
+
+generos_unicos = list(set(generos_stripped))
+print(generos_unicos)
