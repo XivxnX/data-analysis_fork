@@ -10,4 +10,4 @@ A continuación, viene un ejemplo de como entrenar y evaluar distintos modelos d
 
 ## Código
 
-Pendiente
+Puede encontrar el código realizado en el [siguiente enlace](.\src\modeling.py)
