@@ -4,6 +4,7 @@ from matplotlib.pyplot import scatter, show, xlabel, ylabel, plot
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 from numpy import concatenate
+from sklearn.neighbors import KNeighborsRegressor
 
 #Leemos los datos
 df = read_csv('./data/obesity.csv')
@@ -101,3 +102,18 @@ r_score = lr.score(x, y)
 print(f"---ALL---")
 print(f'Test R^2 for ALL prediction for Weight: {r_score:.4f}') #Mas cercanos a 1, mejor
 print(f'MSE of the model: {mean_squared_error(y_test, y_pred)}') #Mas cercanos a 0, mejor
+
+x = df[['Height', 'Age']].values
+y = df['Weight'].values
+
+#Dividir los datos del dataset para entrenar y testing
+x_train, x_test, y_train, y_test = train_test_split(x, y)
+
+knn = KNeighborsRegressor()
+#Entrenar el modelo (train)
+knn.fit(x_train, y_train)
+
+#Metricas del modelo
+print(f"---KNN---")
+print(f'Score of the model: {knn.score(x_test, y_test)}')
+
