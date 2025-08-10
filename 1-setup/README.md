@@ -68,5 +68,3 @@ Se puede instalar la biblioteca mediante el siguiente comando en la terminal.
 pip install scikit-learn
 ```
 
-## Cambio al fork
-Este es un cambio agregado al fork.
